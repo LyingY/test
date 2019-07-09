@@ -1,7 +1,11 @@
 hello 这是第一次写入的数据哦
 
 
+<<<<<<< HEAD
 new 这是第二次写入的内容
 
 
 shiba  zheshi disanci neirong
+=======
+edit  zheshi xiugai cuowuw de 
+>>>>>>> dev
